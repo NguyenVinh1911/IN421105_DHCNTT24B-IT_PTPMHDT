@@ -1,0 +1,14 @@
+E:\phattrienphanmemhuongdt\EduHub.Ch01\obj\Debug\net10.0\EduHub.Ch01.GeneratedMSBuildEditorConfig.editorconfig
+E:\phattrienphanmemhuongdt\EduHub.Ch01\obj\Debug\net10.0\EduHub.Ch01.AssemblyInfoInputs.cache
+E:\phattrienphanmemhuongdt\EduHub.Ch01\obj\Debug\net10.0\EduHub.Ch01.AssemblyInfo.cs
+E:\phattrienphanmemhuongdt\EduHub.Ch01\obj\Debug\net10.0\EduHub.Ch01.csproj.CoreCompileInputs.cache
+e:\phattrienphanmemhuongdt\EduHub.Ch01\bin\Debug\net10.0\EduHub.Ch01.exe
+e:\phattrienphanmemhuongdt\EduHub.Ch01\bin\Debug\net10.0\EduHub.Ch01.deps.json
+e:\phattrienphanmemhuongdt\EduHub.Ch01\bin\Debug\net10.0\EduHub.Ch01.runtimeconfig.json
+e:\phattrienphanmemhuongdt\EduHub.Ch01\bin\Debug\net10.0\EduHub.Ch01.dll
+e:\phattrienphanmemhuongdt\EduHub.Ch01\bin\Debug\net10.0\EduHub.Ch01.pdb
+e:\phattrienphanmemhuongdt\EduHub.Ch01\obj\Debug\net10.0\EduHub.Ch01.dll
+e:\phattrienphanmemhuongdt\EduHub.Ch01\obj\Debug\net10.0\refint\EduHub.Ch01.dll
+e:\phattrienphanmemhuongdt\EduHub.Ch01\obj\Debug\net10.0\EduHub.Ch01.pdb
+e:\phattrienphanmemhuongdt\EduHub.Ch01\obj\Debug\net10.0\EduHub.Ch01.genruntimeconfig.cache
+e:\phattrienphanmemhuongdt\EduHub.Ch01\obj\Debug\net10.0\ref\EduHub.Ch01.dll

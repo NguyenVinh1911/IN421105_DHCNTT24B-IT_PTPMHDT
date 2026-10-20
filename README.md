@@ -1,2 +1,2 @@
-# IN421105_ĐHCNTT24B-IT_PTPMHDT
+# bai-tap-phat-trien-phan-mem-huong-doi-tuong
 
